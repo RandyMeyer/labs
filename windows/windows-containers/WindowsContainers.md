@@ -2,7 +2,7 @@
 
 This chapter will cover the basics of using Windows Containers with Docker.
 
-##Running Windows containers
+## Running Windows containers
 
 First, make sure the Docker installation is working:
 
